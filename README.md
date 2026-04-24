@@ -1,4 +1,16 @@
 # 🔐 Light Encryption Utility
+
+<div>
+  <img src="https://img.shields.io/badge/License-MIT%20(Research%20Use)-blue" alt="License: MIT (Research Use)">
+  <img src="https://img.shields.io/badge/Purpose-Post--Quantum%20Simulation-lightgrey" alt="Purpose: Post-Quantum Simulation">
+  <img src="https://img.shields.io/badge/Language-C-blue" alt="Language: C">
+  <img src="https://img.shields.io/badge/KEM-Kyber--1024%2BX25519-brightgreen" alt="KEM: Kyber-1024+X25519">
+  <img src="https://img.shields.io/badge/AEAD-AES--256--GCM%20|%20Obscurity-orange" alt="AEAD: AES-256-GCM or Obscurity">
+  <img src="https://img.shields.io/badge/Streaming-O(1)%20Memory-success" alt="Streaming: O(1) Memory">
+  <img src="https://img.shields.io/badge/Status-Active%20Research-yellow" alt="Status: Active Research">
+  <img src="https://img.shields.io/badge/Disclosure-Simulated%20Suite%20A-red" alt="Disclosure: Simulated Suite A">
+</div>
+
 > *Hybrid Post-Quantum KEM • Streaming AEAD • Suite A‑Style Simulation*  
 > *Shining a little light… with a touch of Obscurity. 😉*
 
